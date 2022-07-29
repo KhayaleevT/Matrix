@@ -1107,60 +1107,7 @@ private:
         }
         return {CHANGE_MULTIPLY, non_zero_row};
     }
-    /*
-
-
-
-
-
-                ````````
-            .///:-..-:/+o++++:.
-         `-+/.``-:////oosyyhhhyo//:.`
-       `-oy..:++:.``  ....````````-/+:.
-      .osdo+:.`                     `-++.
-    `/yyy:`                            -o/`
-   `oNd:`                               `:o-
-  -oom:                                   .+/`
-  s/d+   `.--..`                .://///:.` `:o-                     `....`
- .hs/`  .yo:--://-`           -+s/----:/oo-.`.+/..                  yy+++.  ``            ``
-.y/`   /yoo+//+++ss/`      `+s+/---------:+s.  -+s`                 do    :o+os.`y-  /s :soo+
-y/    -o.   `/yss-`+/`     `s-   -ss/`    `/+   `h/`                do    .-::m/ oh`.m:.N:  .
-/    `s.    `mNNm:  /+`    .o    oNMN/    ``y`   :h-                do    hs-:m+ `hoyo .N:  `
-`    `s.    `:++:   `o/    `s`   `/+/.     `y`   `o`-.              s/    os++y/  .mh`  /yoo+
-      -o.           .s-     :o.           .o-     o`:.                            -d.
-       ./+:.`````.:++.       ./+-`     ``/+-      :/--                            ..
-         `.://///:-`           `:////////-         o--
-                                    `              /+-
-      `.                                           :N`
-     :oy`                                          oM.
-    `-`y                                           oM.
-       s-                                          sN.
-       :s                                         /oy`
-       `y.                                       .y:d:
-        -o`                                      s/+o-:`
-         ++                                     .y:+` ./`
-         `:o.                     `             os:`   `/
-           .++-`                 :hs-         `-o.      --
-             .:+/:.`         `.-:+:``       `.::`       `:`
-               ``.:///////////:-.``       `-:-`       `-omo`
-                      ````             `-::.`      `-+dNMMN+
-`                                  `.-::.`      `-ohNMMMMMMN.
-o`                            `..-::-.`      .:odNMMMMMMMMMMo
-/:` ```      ``      ```....::--..       `./sdNMMMMMMMMMMMMMd.
-.ohhhdhhyysoshdyoyyhhddddds:`         .:ohmMMMMMMMMMMMMMMMMMM+
-yMMMMMMMMMMMMMMMMMMMMMMMMMMNo`    `./ymNMMMMMMMMMMMMMMMMMMMMMd`
-NMMMMMMMMMMMMMMMMMMMMMMMMMMMN. `./ymMMMMMMMMMMMMMMMMMMMMMMMMMM:
-MMMMMMMMMNmmhdddo+oshmNMMMMMh`-smMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMdo/-.+ ``/-`  `.hmhddy:oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMNho:+-`  /    `/NMh/-:dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMMMMMNd/` /`  `oNMMMMNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMMMMMMNd/ /-``sNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMMMMMMm` `/  `-+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-MMMMMMMMMMMN/  /-``/NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+
-hhhhhhhhhhhho  :``:yhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:
-
-
-     */
+    
 public:
     Matrix() {
         Is_Field<Field>();
