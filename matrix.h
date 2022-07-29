@@ -1,10 +1,6 @@
 //
 // Created by maent on 26.03.2020.
 //
-
-#ifndef TEMPLATES_ZHOPA_H
-#define TEMPLATES_ZHOPA_H
-//
 // Created by maent on 25.03.2020.
 //
 
